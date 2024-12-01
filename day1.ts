@@ -1,5 +1,5 @@
-const sampleInput = await Deno.readTextFile("./day1_sample.txt");
-const input = await Deno.readTextFile("./day1.txt");
+const sampleInput = await Deno.readTextFile("./inputs/day1_sample.txt");
+const input = await Deno.readTextFile("./inputs/day1.txt");
 
 /* Part One */
 
